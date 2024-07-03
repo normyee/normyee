@@ -16,11 +16,13 @@ As a software developer aspirant, I'm always studying and learning new things to
   <img align="center" alt="Vue" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Nodejs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Nestjs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg">
+  <img align="center" alt="Golang" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
   <img align="center" alt="Mongodb" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg">
   <img align="center" alt="Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 </div>
 <kbd>Cloud & Tools:</kbd><br>
 <div style="display: inline_block">
+  <img align="center" alt="Azure" height="80" width="70" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg">
   <img align="center" alt="Docker" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
 </div>
 <hr>
