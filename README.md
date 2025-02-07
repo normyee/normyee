@@ -1,5 +1,5 @@
 ## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, my name is Luan
-I'm a passionate software engineer constantly exploring and learning to stay ahead in this ever-evolving field. The world of software development fascinates me, and I am deeply committed to expanding my knowledge and skills. My journey is driven by a love for coding and a relentless curiosity to explore the limitless possibilities that technology offers.
+I develop.
 
 <hr>
 <div align="center">
