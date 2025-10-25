@@ -1,4 +1,4 @@
-## Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, my name is Luan
+## Hi, my name is Luan
 I develop.
 <hr>
 <div align="center">
