@@ -1,12 +1,6 @@
 ## Hi, my name is Luan
 I develop.
 <hr>
-<div align="center">
-   <a href="https://github.com/normyee">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=normyee&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=normyee&layout=compact&langs_count=7&theme=synthwave"/>
-</div>
-<hr>
 <p align=center>
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=typescript,nodejs,react,tailwind,nextjs,vue,redis,prisma,postgresql,bun,dotnet,mongodb,docker,firebase,cloudflare,aws,gcp,vite,vitest,grafana,sentry,elysia" />
