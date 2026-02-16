@@ -3,7 +3,7 @@ I develop.
 <hr>
 <p align=center>
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=typescript,nodejs,react,tailwind,nextjs,vue,redis,prisma,postgresql,bun,dotnet,mongodb,docker,firebase,cloudflare,aws,gcp,vite,vitest,grafana,sentry,elysia" />
+<img src="https://skillicons.dev/icons?i=typescript,nodejs,react,tailwind,nextjs,vue,redis,postgresql,dotnet,mongodb,docker,godot,blender,cloudflare,aws,gcp,grafana,sentry" />
 </a>
 </p>
 <hr>
